@@ -1,0 +1,38 @@
+article{
+    background: rgb(81,7,135);
+    justify-content: center;
+    background: linear-gradient(90deg, rgba(81,7,135,1) 7%, rgba(68,0,123,1) 53%, rgba(81,7,135,1) 100%, rgba(210,70,252,1) 100%);
+}
+    img {
+    width: 290px;
+    height: 218px;
+    
+}
+header { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+body{
+    font-family: sans-serif;
+}
+
+h2{
+    color: aliceblue;
+}
+
